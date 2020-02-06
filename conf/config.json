@@ -1,9 +1,9 @@
 {
   "MYSQL": {
-    "HOST": "192.168.0.100",
-    "PORT": 23306,
+    "HOST": "127.0.01",
+    "PORT": 3306,
     "USER": "root",
-    "PW": "P@ssw0rd",
+    "PW": "1234",
     "DBNAME" : "justq_subject_db"
   }
 }
